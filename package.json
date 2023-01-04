@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/louy/interview-exercises#readme",
   "devDependencies": {
-    "jest": "^23.4.2"
+    "jest": "^29.3.1"
   },
   "jest": {
     "testEnvironment": "node"
